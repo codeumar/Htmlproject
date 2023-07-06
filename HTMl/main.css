@@ -1,0 +1,18 @@
+body{
+    font-family: "Poppins", Arial, sans-serif;  
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav > li{
+    padding-left:40px;
+    padding-right:40px;
+  }
+
+#navbarNav a:hover{
+    color: white;
+     
+}
+.hello2{
+    background-color: white; 
+}

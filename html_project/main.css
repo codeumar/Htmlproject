@@ -1,0 +1,43 @@
+body{
+    font-family: "Poppins", Arial, sans-serif;  
+}
+
+.topnav{
+    padding-top: 40px;
+    
+}
+.topnav a{
+    float: left;
+    align-items: center;
+    font-size: 10px;
+    
+}
+.logo a{
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 30px;
+    color: black;
+    text-decoration: none
+}   
+.navelement{
+    float: right;  
+}
+.navelement a{
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    padding-right: 80px;
+}
+.navelement a:hover{
+    color: white;
+
+}
+.banner img{
+    height: 400px;
+    width: 400px;
+}
+.banner table {
+width: 100%;
+    
+}
