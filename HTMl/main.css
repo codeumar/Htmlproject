@@ -16,3 +16,14 @@ body{
 .hello2{
     background-color: white; 
 }
+.con{
+    padding: 0px;
+}
+@media (max-width:500px){
+    .media{
+        background-color: rgb(9, 74, 100);
+        padding:0px;
+        
+    }
+    
+}
